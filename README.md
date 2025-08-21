@@ -1,12 +1,12 @@
-# 👋 Hi there! I'm **Manjunath**, a full-stack developer and AI explorer
+# 👋 Hey there! I'm **Manjunath** — a full-stack developer and AI explorer
 
-I’m passionate about crafting beautiful UIs, building intelligent systems, and scaling ideas into reality. Whether it’s designing pixel-perfect interfaces or training deep learning models, I love blending creativity with code.
+I thrive at the intersection of design and intelligence. Whether it's crafting sleek UIs with React + Tailwind or building smart systems with Python and deep learning, I love turning ideas into scalable, impactful solutions.
 
 ---
 
 ## 🧠 What I Love Building
 - ✨ Frontend apps with React + Tailwind CSS
-- 🧬 Generative AI tools and LLM-powered assistants
+- 🤖 Generative AI tools and LLM-powered assistants
 - 🧠 Machine Learning models for real-world impact
 - 🧠 Deep Learning systems for CV & NLP
 - 🧠 Prompt Engineering for smarter AI interactions
@@ -44,7 +44,7 @@ I’m passionate about crafting beautiful UIs, building intelligent systems, and
 ---
 
 ## 📈 GitHub Stats
-![Manjunath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakshita-dev&show_icons=true&theme=radical)
+![Manjunath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjunath-dev&show_icons=true&theme=radical)
 
 ---
 
@@ -52,7 +52,7 @@ I’m passionate about crafting beautiful UIs, building intelligent systems, and
 - 💼 [Portfolio Website](#)
 - 🐦 [Twitter](#)
 - 💬 [LinkedIn](#)
-- 📫 Email: rakshita@example.com
+- 📫 Email: manjunath@example.com
 
 ---
 
