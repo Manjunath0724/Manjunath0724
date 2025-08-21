@@ -1,92 +1,59 @@
-<!-- CENTERED HEADER -->
-<div align="center">
+# 👋 Hey there! I'm **Manjunath** — a full-stack developer and AI explorer
 
-<!-- Title -->
-<h1>Manjunath</h1>
-<h3>Full‑Stack Developer • AI Explorer • Prompt Engineer</h3>
-
-<!-- One‑liner -->
-<p><em>I craft fast UIs, reliable APIs, and practical AI tools.</em></p>
-
-<!-- Quick actions -->
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7C3AED.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Resume-EC4899.svg?style=for-the-badge&logo=readme&logoColor=white" /></a>
-<a href="mailto:manjunath@example.com"><img src="https://img.shields.io/badge/Email-22D3EE.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
+I thrive at the intersection of design and intelligence. Whether it's crafting sleek UIs with React + Tailwind or building smart systems with Python and deep learning, I love turning ideas into scalable, impactful solutions.
 
 ---
 
-## 🚀 Snapshot
-- Building real‑time AI assistants with retrieval and tool calling
-- Designing animated, accessible React/Tailwind interfaces
-- Shipping robust APIs with Python (FastAPI) and Docker
+## 🧠 What I Love Building
+- ✨ Frontend apps with React + Tailwind CSS
+- 🤖 Generative AI tools and LLM-powered assistants
+- 🧠 Machine Learning models for real-world impact
+- 🧠 Deep Learning systems for CV & NLP
+- 🧠 Prompt Engineering for smarter AI interactions
+- 🛠️ Scalable backend APIs with Python & PHP
 
 ---
 
-## 🧰 Tech I Use
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/React-0A0A0A.svg?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind-0A0A0A.svg?style=flat&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/TypeScript-0A0A0A.svg?style=flat&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/FastAPI-0A0A0A.svg?style=flat&logo=fastapi&logoColor=10B981" />
-  <img src="https://img.shields.io/badge/Python-0A0A0A.svg?style=flat&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A.svg?style=flat&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/Docker-0A0A0A.svg?style=flat&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0A0A0A.svg?style=flat&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### 🧪 Backend & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🤖 AI & ML
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-0B3D91?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-1F425F?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-005571?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-## ⭐ Featured
-<table>
-  <tr>
-    <td>
-      <b>🧠 LLM Chatbot (RAG + Tools)</b><br/>
-      Context‑aware assistant with embeddings, vector search, and function calling.<br/>
-      <a href="#" target="_blank">Demo</a> • <a href="#" target="_blank">Code</a>
-    </td>
-    <td>
-      <b>🎨 Portfolio UI (React + Tailwind)</b><br/>
-      Themed components, framer‑motion, a11y‑first, dark mode tokens.<br/>
-      <a href="#" target="_blank">Live</a> • <a href="#" target="_blank">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>📦 Admin Dashboard</b><br/>
-      Realtime charts, sockets, clean Redux Toolkit patterns.<br/>
-      <a href="#" target="_blank">Demo</a> • <a href="#" target="_blank">Code</a>
-    </td>
-    <td>
-      <b>🤖 Image Classifier (PyTorch)</b><br/>
-      Transfer learning + aug pipeline, solid CV baseline.<br/>
-      <a href="#" target="_blank">Notebook</a> • <a href="#" target="_blank">Code</a>
-    </td>
-  </tr>
-</table>
+## 📈 GitHub Stats
+![Manjunath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjunath-dev&show_icons=true&theme=radical)
 
 ---
 
-## 📚 Learning Now
-- Suspense/Transitions in React, error boundaries
-- Prompt evaluation and small‑scale fine‑tuning
-- API hardening: rate‑limits, RBAC, observability
+## 🌐 Connect with Me
+- 💼 [Portfolio Website](#)
+- 🐦 [Twitter](https://x.com/ManjunathGavan3?t=JZtoR8ApBq2GFdJmSdchVw&s=09)
+- 💬 [LinkedIn](https://www.linkedin.com/in/manjunath-gavandi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📫 Email: manjunathgavandi8161@gmail.com
 
 ---
 
-## 📈 Stats
-<div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=manjunath-dev&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=manjunath-dev&show_icons=true&theme=radical&hide_border=true" />
-</div>
-
----
-
-## 🌐 Links
-- Portfolio: #
-- Twitter: #
-- LinkedIn: #
-- Email: manjunath@example.com
-
-> “Build small. Ship fast. Learn always.”
+> “Code is poetry. AI is the rhythm.”
