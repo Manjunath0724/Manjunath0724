@@ -44,7 +44,7 @@ I’m passionate about crafting beautiful UIs, building intelligent systems, and
 ---
 
 ## 📈 GitHub Stats
-![Rakshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakshita-dev&show_icons=true&theme=radical)
+![Manjunath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakshita-dev&show_icons=true&theme=radical)
 
 ---
 
