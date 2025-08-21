@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | AI Explorer | Prompt Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+beautiful+UIs+with+React+%2B+Tailwind;Crafting+intelligent+systems+with+Python+%26+AI;Exploring+LLMs+and+Prompt+Engineering;Always+learning%2C+always+building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Building+beautiful+UIs+with+React+%2B+Tailwind;Crafting+intelligent+systems+with+Python+%26+AI;Exploring+LLMs+and+Prompt+Engineering;Always+learning%2C+always+building" />
 </p>
 
 ---
