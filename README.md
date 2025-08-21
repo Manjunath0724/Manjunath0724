@@ -50,8 +50,8 @@ I thrive at the intersection of design and intelligence. Whether it's crafting s
 
 ## 🌐 Connect with Me
 - 💼 [Portfolio Website](#)
-- 🐦 [Twitter](https://www.linkedin.com/in/manjunath-gavandi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 💬 [LinkedIn](#)
+- 🐦 [Twitter]()
+- 💬 [LinkedIn](https://www.linkedin.com/in/manjunath-gavandi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📫 Email: manjunath@example.com
 
 ---
