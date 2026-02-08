@@ -1,75 +1,106 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=005571&height=250&section=header&text=Hi,%20I'm%20Manjunath&fontSize=80&animation=fadeIn" />
-  
-  <h3>🚀 Full-Stack Developer | AI Explorer | 3D Modeling Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Manjunath</h1>
+<h3 align="center">Full-Stack Developer | AI Explorer | Prompt Engineer</h3>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Building+3D+Portfolios+with+React+%2B+Blender;Crafting+Intelligent+Systems+with+Java+%26+Python;Mastering+DSA+and+Smart+Placement+Systems;Prompt+Engineering+%26+LLM+Fine-Tuning" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Building+beautiful+UIs+with+React+%2B+Tailwind;Crafting+intelligent+systems+with+Python+%26+AI;Exploring+LLMs+and+Prompt+Engineering;Always+learning%2C+always+building;Developing+3D+Portfolios+with+Blender" />
+</p>
 
 ---
 
-## 🧠 About Me (Current 2026)
-- 🛠️ **Lead Developer**: Currently finalizing the **Smart Placement Management System (SPMS)**.
-- 🎨 **3D Vision**: Integrating Blender-made assets into a **Doraemon-themed 3D Portfolio**.
-- ☕ **DSA Enthusiast**: Sharpening problem-solving skills in **Java** and **C++**.
-- 🤖 **AI Explorer**: Experimenting with **FastAPI**, **PostgreSQL**, and **LLM prompt chaining**.
+## 🧠 What I Love Building
+- ✨ Frontend apps with React + Tailwind CSS  
+- 🤖 Generative AI tools and LLM-powered assistants  
+- 🧠 Machine Learning models for real-world impact  
+- 🧠 Deep Learning systems for CV & NLP  
+- 🧠 Prompt Engineering for smarter AI interactions  
+- 🛠️ Scalable backend APIs with Python & PHP  
+- 🎨 **3D Assets and Environments in Blender**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend & Design
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Logic
+### 🧪 Backend & Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+### 🤖 AI & ML
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-0B3D91?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-1F425F?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-005571?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Live GitHub Analytics (2026 Status)
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjunath-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunath-dev&layout=compact&theme=radical&hide=html,css&hide_border=true" />
-</div>
+## 🚀 Featured Projects
+<details open>
+  <summary>Click to expand</summary>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjunath-dev&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
+- 🎓 **Smart Placement Management System** – A comprehensive system for managing campus placements.
+- 🐱 **Doraemon 3D Portfolio** – A creative portfolio featuring 3D gadgets and characters built in Blender.
+- 🧠 **AI Chatbot with LLMs** – Built a conversational assistant using GPT + vector DB  
+- 🎨 **Portfolio Website** – React + Tailwind CSS with dark mode and animations  
+- 📦 **Redux-powered Dashboard** – Real-time data visualization with Redux Toolkit  
+- 🤖 **Image Classifier** – Deep learning model for object detection using PyTorch  
+- 🧬 **Prompt Playground** – Experimenting with prompt tuning and chaining
+- 💰 **Expense Tracker (C++)** – CLI-based management tool for personal finances.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manjunath-dev&theme=radical&row=1&column=6&no-bg=true" />
-</div>
-
----
-
-## 🚀 Active Projects
-- 🐱 **Doraemon 3D Portfolio**: interactive web experience with Blender-modeled gadgets.
-- 🎓 **Smart Placement Management System**: A comprehensive FPR project using React, FastAPI, and PostgreSQL.
-- 🧪 **Prompt Playground**: A repository for testing LLM prompts and AI agent architectures.
+</details>
 
 ---
 
-## 🌐 Connect With Me
+## 📚 Currently Learning
+- ⚛️ Advanced React patterns (Suspense, Portals, Error Boundaries)  
+- 🧵 Redux Toolkit and async flows  
+- 🧠 Fine-tuning LLMs and prompt chaining  
+- 🎨 Tailwind CSS polish: underline offset, hover effects, dark mode  
+- 🔐 GitHub repo hygiene and security best practices  
+- ☕ **Java Data Structures & Algorithms (DSA)** ---
+
+## 📈 GitHub Stats & Analytics
 <p align="center">
-<a href="https://www.linkedin.com/in/manjunath-gavandi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/ManjunathGavan3"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:manjunathgavandi8161@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjunath-dev&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunath-dev&layout=compact&theme=radical&hide=html,css" />
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manjunath-dev&color=005571&style=flat-square&label=PROFILE+VIEWS" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjunath-dev&theme=radical&border=F75C7E" />
+</p>
 
-<p align="center"><i>"Code is poetry. AI is the rhythm. Curiosity is the fuel."</i></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manjunath-dev&theme=radical&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+- 💼 [Portfolio Website](#)
+- 🐦 [Twitter](https://x.com/ManjunathGavan3?t=JZtoR8ApBq2GFdJmSdchVw&s=09)
+- 💬 [LinkedIn](https://www.linkedin.com/in/manjunath-gavandi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📫 Email: manjunathgavandi8161@gmail.com
+- 👀 Visitor Badge: ![Visitors](https://komarev.com/ghpvc/?username=manjunath-dev&style=flat-square&color=F75C7E)
+
+---
+
+> “Code is poetry. AI is the rhythm. Curiosity is the fuel.”
