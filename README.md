@@ -10,67 +10,42 @@
 
 ---
 
-## 🧠 About Me
-- 🛠️ Currently developing a **Smart Placement Management System** to streamline campus recruitment.
-- 🎨 Creating a unique **3D Portfolio** inspired by **Doraemon** using Blender and React Three Fiber.
-- ☕ Strengthening my foundations in **Java** and **Data Structures & Algorithms (DSA)**.
-- 🤖 Exploring the intersection of **Generative AI** and user experience.
-- 🏋️‍♂️ Dedicated to consistency, both in **Git commits** and at the **gym**.
+## 🧠 About Me (Current 2026)
+- 🛠️ **Lead Developer**: Currently finalizing the **Smart Placement Management System (SPMS)**.
+- 🎨 **3D Vision**: Integrating Blender-made assets into a **Doraemon-themed 3D Portfolio**.
+- ☕ **DSA Enthusiast**: Sharpening problem-solving skills in **Java** and **C++**.
+- 🤖 **AI Explorer**: Experimenting with **FastAPI**, **PostgreSQL**, and **LLM prompt chaining**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### 🎨 Design & Frontend
+### 🎨 Frontend & Design
 <p align="left">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Languages
+### ⚙️ Backend & Logic
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🤖 AI & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Generative_AI-005571?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-<details open>
-  <summary><b>Click to toggle project details</b></summary>
-  <br/>
-
-- 🐱 **Doraemon 3D Portfolio**: A React-based portfolio featuring custom 3D models of gadgets and characters made in Blender.
-- 🎓 **Smart Placement Management System**: A full-stack application for managing student data and placement drives efficiently.
-- 💬 **AI Conversational Assistant**: Built using LLMs and Prompt Engineering for specialized task automation.
-- 📊 **Expense Tracker (C++)**: A CLI-based tool for personal finance management.
-
-</details>
-
----
-
-## 📊 GitHub Analytics
+## 📊 Live GitHub Analytics (2026 Status)
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjunath-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunath-dev&layout=compact&theme=radical&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjunath-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunath-dev&layout=compact&theme=radical&hide=html,css&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjunath-dev&theme=radical&border=F75C7E&stroke=F75C7E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjunath-dev&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -79,7 +54,14 @@
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🚀 Active Projects
+- 🐱 **Doraemon 3D Portfolio**: interactive web experience with Blender-modeled gadgets.
+- 🎓 **Smart Placement Management System**: A comprehensive FPR project using React, FastAPI, and PostgreSQL.
+- 🧪 **Prompt Playground**: A repository for testing LLM prompts and AI agent architectures.
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/manjunath-gavandi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/ManjunathGavan3"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
