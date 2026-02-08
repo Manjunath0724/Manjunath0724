@@ -24,6 +24,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend & Design
@@ -81,6 +83,7 @@
 - 🔐 GitHub repo hygiene and security best practices
 
 ---
+
 ## 📈 GitHub Stats & Add-ons
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjunath-dev&show_icons=true&theme=radical" />
@@ -96,7 +99,6 @@
 </p>
 
 <p align="center">
-  <!-- Visitors Count -->
   <img src="https://komarev.com/ghpvc/?username=manjunath-dev&style=flat-square&color=F75C7E&label=VISITORS" />
 </p>
 
@@ -110,12 +112,19 @@
 ---
 
 ## ✍️ Latest Blog Posts
-<!-- Dynamic blog feeds -->
-- 📝 Latest Dev.to posts:  
-  ![Dev.to blogs](https://github-readme-stats.vercel.app/api/pin/?username=manjunath-dev&repo=dev.to&theme=radical)
+- 📝 Latest Dev.to posts (via GitHub Action)  
+- 📝 Latest Medium posts (via GitHub Action)  
+- 📝 Personal Blog feed (coming soon...)
 
-- 📝 Latest Medium posts:  
-  ![Medium blogs](https://github-readme-stats.vercel.app/api/pin/?username=manjunath-dev&repo=medium&theme=radical)
+---
 
-- 📝 Personal Blog (via GitHub Action):  
-  *Stay tuned! Dynamic blog feed coming soon...*
+## 🌐 Connect with Me
+<p align="center">
+<a href="https://x.com/ManjunathGavan3"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/manjunath-gavandi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:manjunathgavandi8161@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+> “Code is poetry. AI is the rhythm. Curiosity is the fuel.”
