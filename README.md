@@ -83,26 +83,23 @@
 - 🔐 GitHub repo hygiene and security best practices
 
 ---
-
 ## 📈 GitHub Stats & Add-ons
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjunath-dev&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunath-dev&layout=compact&theme=radical&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjunath-dev&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunath-dev&layout=compact&theme=radical&hide=html,css&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjunath-dev&theme=radical&border=F75C7E" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjunath-dev&theme=radical&border=F75C7E&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manjunath-dev&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manjunath-dev&theme=radical&row=1&column=6&cache_seconds=1800" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manjunath-dev&style=flat-square&color=F75C7E&label=VISITORS" />
 </p>
-
----
 
 ## 🌐 Connect with Me
 <p align="center">
