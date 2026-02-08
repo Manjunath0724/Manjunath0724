@@ -1,20 +1,23 @@
-<h1 align="center">Hi 👋, I'm Manjunath</h1>
-<h3 align="center">Full-Stack Developer | AI Explorer | Prompt Engineer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=250&section=header&text=Hi,%20I'm%20Manjunath&fontSize=80&animation=fadeIn" />
+  
+  <h3>Full-Stack Developer | AI Explorer | Prompt Engineer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Building+beautiful+UIs+with+React+%2B+Tailwind;Crafting+intelligent+systems+with+Python+%26+AI;Exploring+LLMs+and+Prompt+Engineering;Always+learning%2C+always+building;Developing+3D+Portfolios+with+Blender" />
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Building+beautiful+UIs+with+React+%2B+Tailwind;Crafting+intelligent+systems+with+Python+%26+AI;Exploring+LLMs+and+Prompt+Engineering;Always+learning%2C+always+building;Creating+3D+Worlds+with+Blender" />
+  </p>
+</div>
 
 ---
 
 ## 🧠 What I Love Building
-- ✨ Frontend apps with React + Tailwind CSS  
-- 🤖 Generative AI tools and LLM-powered assistants  
-- 🧠 Machine Learning models for real-world impact  
-- 🧠 Deep Learning systems for CV & NLP  
-- 🧠 Prompt Engineering for smarter AI interactions  
-- 🛠️ Scalable backend APIs with Python & PHP  
-- 🎨 **3D Assets and Environments in Blender**
+- ✨ Frontend apps with React + Tailwind CSS
+- 🤖 Generative AI tools and LLM-powered assistants
+- 🧠 Machine Learning models for real-world impact
+- 🧠 Deep Learning systems for CV & NLP
+- 🧠 Prompt Engineering for smarter AI interactions
+- 🛠️ Scalable backend APIs with Python & PHP
+- 🎨 **3D Assets & Interactive Environments in Blender**
 
 ---
 
@@ -57,28 +60,29 @@
 <details open>
   <summary>Click to expand</summary>
 
-- 🎓 **Smart Placement Management System** – A comprehensive system for managing campus placements.
-- 🐱 **Doraemon 3D Portfolio** – A creative portfolio featuring 3D gadgets and characters built in Blender.
-- 🧠 **AI Chatbot with LLMs** – Built a conversational assistant using GPT + vector DB  
-- 🎨 **Portfolio Website** – React + Tailwind CSS with dark mode and animations  
-- 📦 **Redux-powered Dashboard** – Real-time data visualization with Redux Toolkit  
-- 🤖 **Image Classifier** – Deep learning model for object detection using PyTorch  
-- 🧬 **Prompt Playground** – Experimenting with prompt tuning and chaining
-- 💰 **Expense Tracker (C++)** – CLI-based management tool for personal finances.
+- 🎓 **Smart Placement Management System** – A comprehensive portal to streamline student placements and recruitment.
+- 🐱 **Doraemon 3D Portfolio** – A creative web showcase using custom Blender models and React Three Fiber.
+- 🧠 **AI Chatbot with LLMs** – Built a conversational assistant using GPT + vector DB.
+- 🎨 **Portfolio Website** – React + Tailwind CSS with dark mode and animations.
+- 📦 **Redux-powered Dashboard** – Real-time data visualization with Redux Toolkit.
+- 🤖 **Image Classifier** – Deep learning model for object detection using PyTorch.
+- 🧬 **Prompt Playground** – Experimenting with prompt tuning and chaining.
+- 💰 **Expense Tracker (C++)** – Personal finance management via CLI.
 
 </details>
 
 ---
 
 ## 📚 Currently Learning
-- ⚛️ Advanced React patterns (Suspense, Portals, Error Boundaries)  
-- 🧵 Redux Toolkit and async flows  
-- 🧠 Fine-tuning LLMs and prompt chaining  
-- 🎨 Tailwind CSS polish: underline offset, hover effects, dark mode  
-- 🔐 GitHub repo hygiene and security best practices  
-- ☕ **Java Data Structures & Algorithms (DSA)** ---
+- ⚛️ Advanced React patterns (Suspense, Portals, Error Boundaries)
+- ☕ **Data Structures & Algorithms (DSA) in Java**
+- 🧠 Fine-tuning LLMs and prompt chaining
+- 🎨 Tailwind CSS polish: underline offset, hover effects, dark mode
+- 🔐 GitHub repo hygiene and security best practices
 
-## 📈 GitHub Stats & Analytics
+---
+
+## 📈 GitHub Stats & Add-ons
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjunath-dev&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunath-dev&layout=compact&theme=radical&hide=html,css" />
@@ -94,12 +98,21 @@
 
 ---
 
+## ✍️ Latest Blog Posts
+- 📝 *Stay tuned! Dynamic blog feed coming soon...*
+
+---
+
 ## 🌐 Connect with Me
-- 💼 [Portfolio Website](#)
-- 🐦 [Twitter](https://x.com/ManjunathGavan3?t=JZtoR8ApBq2GFdJmSdchVw&s=09)
-- 💬 [LinkedIn](https://www.linkedin.com/in/manjunath-gavandi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📫 Email: manjunathgavandi8161@gmail.com
-- 👀 Visitor Badge: ![Visitors](https://komarev.com/ghpvc/?username=manjunath-dev&style=flat-square&color=F75C7E)
+<p align="center">
+<a href="https://x.com/ManjunathGavan3"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/manjunath-gavandi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:manjunathgavandi8161@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=manjunath-dev&style=flat-square&color=F75C7E&label=VISITORS" />
+</div>
 
 ---
 
